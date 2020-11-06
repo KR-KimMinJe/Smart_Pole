@@ -13,7 +13,9 @@
 
 # Ⅲ. **개발환경**
 * Android Studio
-* RaspberyPI
+* Anaconda
+* Caffe
+* RPI
 
 # Ⅳ. 주요 기능
 ### 1. OCR을 통한 글자 인식
