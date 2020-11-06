@@ -3,6 +3,7 @@
 *   개발 목적 : 
 *   대한전기학회 워크샵. 129-130
 *   상명 Prime 성과우수대회 최우수상
+<img src="https://user-images.githubusercontent.com/73852272/98405248-4b529100-20af-11eb-94e8-89c860c3ee9f.jpg" width="400" hieght="400">
 
 # Ⅱ. **동작 구성도**
 <img src="https://user-images.githubusercontent.com/73852272/98375722-dae34a00-2085-11eb-91c0-2c81fe0310fd.jpg" width="400" hieght="400">
